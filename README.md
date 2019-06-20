@@ -9,6 +9,6 @@ ctrl + shift + u (Lowercase, строчные)
 
 Установка
 
-Скачайте архив https://github.com/zlo2k/tinymce5case/blob/master/zcase.zip
+Скачайте архив https://github.com/zlo2k/tinymce5case/raw/master/zcase.zip
 
 Распакуйте содержимое архива в tinymce/plugins/ и не забедьте добавить zcase в параметры plugins и toolbar. 
